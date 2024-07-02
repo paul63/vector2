@@ -3,7 +3,7 @@
 
 ### To use:
 
-`Import "github.com/paulSB/vector2"`
+`Import "github.com/paul63/vector2"`
 
 ### provides a 2 vector struct:
 
